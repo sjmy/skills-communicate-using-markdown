@@ -9,8 +9,13 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Code block example
-
 ``` python
 def hello_world():
   print("Hello world!")
 ```
+
+# It's a task list!
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code block example
+- [ ] Add a task list
