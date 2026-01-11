@@ -4,3 +4,6 @@
 #### Smaller still...
 ##### Almost there
 ###### The smallest header we got
+
+# Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
